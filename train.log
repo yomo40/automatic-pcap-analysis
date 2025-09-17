@@ -1,0 +1,4 @@
+  File "/root/pycharm/1.py", line 1
+    n_cpu_heavy.py  ——  纯CPU暴力循环训练，吃满指定核心
+                    ^
+SyntaxError: invalid character '—' (U+2014)
